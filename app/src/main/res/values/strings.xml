@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Estude Aqui</string>
+    <string name="txt_bem_vindo_intro">Bem vindo ao Estude Aqui</string>
+    <string name="txt_body_1">Um jogo didático para\n auxiliar a alfabetização de crianças autistas.</string>
+    <string name="btn_comecar">Começar!</string>
+    <string name="txt_criar_conta">Criar Conta</string>
+    <string name="txt_body_criar_conta">Crie uma conta para prosseguir</string>
+    <string name="txt_email">E-mail</string>
+    <string name="txt_criar_senha">Senha</string>
+    <string name="txt_confirmar_senha">Confirmar Senha</string>
+    <string name="txt_criar_conta1">Criar Conta!</string>
+    <string name="txt_login">Já possui uma conta? Entrar agora!</string>
+    <string name="txt_fazer_login">Fazer login</string>
+    <string name="txt_body_fazer_login">Insira os dados da sua conta para prosseguir</string>
+    <string name="txt_btn_logar">Entrar agora!</string>
+    <string name="txt_criar_conta_et">Não possui uma conta? Criar agora!</string>
+    <string name="txt_primeiras_letras">Letras que faltam</string>
+</resources>
